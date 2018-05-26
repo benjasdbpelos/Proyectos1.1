@@ -1,0 +1,10 @@
+C:\Users\benja\source\repos\WindowsFormsMenu\WindowsFormsMenu\bin\Debug\WindowsFormsMenu.exe.config
+C:\Users\benja\source\repos\WindowsFormsMenu\WindowsFormsMenu\bin\Debug\WindowsFormsMenu.exe
+C:\Users\benja\source\repos\WindowsFormsMenu\WindowsFormsMenu\bin\Debug\WindowsFormsMenu.pdb
+C:\Users\benja\source\repos\WindowsFormsMenu\WindowsFormsMenu\obj\Debug\WindowsFormsMenu.csprojAssemblyReference.cache
+C:\Users\benja\source\repos\WindowsFormsMenu\WindowsFormsMenu\obj\Debug\WindowsFormsMenu.Form1.resources
+C:\Users\benja\source\repos\WindowsFormsMenu\WindowsFormsMenu\obj\Debug\WindowsFormsMenu.Properties.Resources.resources
+C:\Users\benja\source\repos\WindowsFormsMenu\WindowsFormsMenu\obj\Debug\WindowsFormsMenu.csproj.GenerateResource.cache
+C:\Users\benja\source\repos\WindowsFormsMenu\WindowsFormsMenu\obj\Debug\WindowsFormsMenu.csproj.CoreCompileInputs.cache
+C:\Users\benja\source\repos\WindowsFormsMenu\WindowsFormsMenu\obj\Debug\WindowsFormsMenu.exe
+C:\Users\benja\source\repos\WindowsFormsMenu\WindowsFormsMenu\obj\Debug\WindowsFormsMenu.pdb
