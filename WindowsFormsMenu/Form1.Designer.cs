@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.buttonCua = new System.Windows.Forms.Button();
             this.buttonRect = new System.Windows.Forms.Button();
             this.buttonCirc = new System.Windows.Forms.Button();
@@ -166,9 +167,10 @@
             this.Controls.Add(this.buttonCirc);
             this.Controls.Add(this.buttonRect);
             this.Controls.Add(this.buttonCua);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Form1";
+            this.Text = "Figuras ";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
